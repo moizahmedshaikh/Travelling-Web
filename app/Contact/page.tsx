@@ -14,7 +14,7 @@ const Newsletter = () => {
           <input type="email" placeholder="Email" required />
           <button className="btn">
             <Link className="btn-link" href={"#"}>
-              Get Started 
+              Started 
             </Link>
           </button>
         </form>
