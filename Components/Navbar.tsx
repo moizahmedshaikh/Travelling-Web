@@ -98,7 +98,7 @@ const Navbar = () => {
         <li>
           <Link className="Link" href={"#"}>
             {" "}
-            Folow
+            Follow
           </Link>
         </li>
         <li>
